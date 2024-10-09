@@ -7,15 +7,11 @@
 - 3 Henry VI
 - 1 Henry VI
 - Richard III
-- Venus and Adonis
-- The Rape of Lucrece
 - Richard II
 - King John
 - 1 Henry IV
 - 2 Henry IV
 - Henry V
-- Sonnets and 'A Lover's Complaint'
-- Various Poems
 - Henry VIII
 
 ## Comedies
